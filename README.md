@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antonio Gasparre
 - 👀 I’m interested in coding and make projects with arduino 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working with the code
 - 💞️ I’m looking to collaborate as Freelancer
 - 📫 How to reach me : with DM
 
